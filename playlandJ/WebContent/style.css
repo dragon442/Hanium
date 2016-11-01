@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+body{
+  background-color : #CAE2F7;
+}
+
+table,tr,td{
+  border : 1px solid black;
+  border-collapse : collapse;
+}
+
+.label{ /*class="label"인 엘리먼트에 적용*/
+  background-color : #A5CFF1;
+  width : 20%;
+}
+
+.label2{ /*class="label2"인 엘리먼트에 적용*/
+  background-color : #A5CFF1;
+  text-align : center;
+  width : 70%;
+}
+
+.content{/*class="content"인 엘리먼트에 적용*/
+  width : 50%;
+}
